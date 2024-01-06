@@ -1,1 +1,2 @@
 # Fastify App
+[![Node.js Test](https://github.com/yoshitaka-motomura/node-fastify-app-example/actions/workflows/ci.yml/badge.svg)](https://github.com/yoshitaka-motomura/node-fastify-app-example/actions/workflows/ci.yml)
