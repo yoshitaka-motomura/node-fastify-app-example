@@ -5,13 +5,13 @@ on:
       - main
     paths:
       - 'src/**'
-      - 'test/**'
+      - 'tests/**'
   pull_request:
     branches:
       - main
     paths:
       - 'src/**'
-      - 'test/**'
+      - 'tests/**'
 
 jobs:
   test:
